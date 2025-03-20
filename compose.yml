@@ -1,5 +1,10 @@
 services:
+  
   web:
+
+    
     build: .
     ports:
-      - "80:80"
+      - "8081:80"
+
+
