@@ -9,7 +9,7 @@ Depois disso suba a aplicação com o comando:
 
 Acesse `localhost` para ver se aparece a página do Nginx.
 
-Acesse `localhost/devmarcondes.html` para ver a página do Enxo Pascal.
+Acesse `localhost/devmarcondes.html` para ver a página do Marcondes Machado.
 
 Pare o conteiner com o comando:
 
